@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "login-1_Attack Script", "login-1_Attack Script.pyproj", "{A96B42A5-2483-4A71-B388-54203C8ABECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A96B42A5-2483-4A71-B388-54203C8ABECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96B42A5-2483-4A71-B388-54203C8ABECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDF61800-9AC7-48D6-BD68-1A688FC208F1}
+	EndGlobalSection
+EndGlobal
