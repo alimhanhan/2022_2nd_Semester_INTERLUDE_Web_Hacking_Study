@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Query for error based SQL injection_2", "Query for error based SQL injection_2.pyproj", "{8171E651-6244-4D06-AC61-34C152422D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8171E651-6244-4D06-AC61-34C152422D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8171E651-6244-4D06-AC61-34C152422D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FD31BA7-7AE5-4909-AF81-F611CD498AE7}
+	EndGlobalSection
+EndGlobal
